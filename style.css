@@ -1,0 +1,1904 @@
+.landing-page-for-offline-course,
+.landing-page-for-offline-course * {
+  box-sizing: border-box;
+}
+.landing-page-for-offline-course {
+  background: var(--one-bg2, #0f1537);
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 9461px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-95 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1940px;
+  height: 2364px;
+  position: relative;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 1921px;
+  height: 800px;
+  position: static;
+}
+.hero-section {
+  width: 1920px;
+  height: 800px;
+  position: static;
+}
+.mask-group {
+  width: 1920px;
+  height: 800px;
+  position: absolute;
+  left: 9.5px;
+  top: 0px;
+  overflow: visible;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  width: 970px;
+  position: absolute;
+  left: calc(50% - 485.5px);
+  top: 310px;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.ai-on-the-job {
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: var(
+    --university-new-h2-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-h2-font-size, 24px);
+  line-height: var(--university-new-h2-line-height, 125%);
+  font-weight: var(--university-new-h2-font-weight, 600);
+  text-transform: uppercase;
+  position: relative;
+  width: 570px;
+}
+.frame-4049 {
+  margin: -57px 0 0 0;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.boost-your-skills-and-get-ahead {
+  margin: -57px 0 0 0;
+  color: var(--white, #ffffff);
+  text-align: center;
+  font-family: var(--one-h1-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h1-font-size, 60px);
+  line-height: var(--one-h1-line-height, 125%);
+  font-weight: var(--one-h1-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.frame-79 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-76 {
+  background: rgba(0, 12, 39, 0.6);
+  border-radius: 8px;
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 72px;
+  position: relative;
+}
+.extra-500-with-ai {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-77 {
+  background: rgba(0, 12, 39, 0.6);
+  border-radius: 8px;
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 72px;
+  position: relative;
+}
+.social-media-monetization {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.frame-78 {
+  background: rgba(0, 12, 39, 0.6);
+  border-radius: 8px;
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 72px;
+  position: relative;
+}
+.real-world-skills {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.header {
+  background: rgba(18, 18, 18, 0.2);
+  padding: 20px 10px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 1920px;
+  position: absolute;
+  left: calc(50% - 959.5px);
+  top: 0px;
+}
+.frame-23 {
+  display: flex;
+  flex-direction: row;
+  gap: 417px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4050 {
+  flex-shrink: 0;
+  width: 335px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+}
+.ai-logo-1 {
+  width: 277px;
+  height: 81px;
+  position: absolute;
+  left: -10px;
+  top: -9px;
+  object-fit: cover;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.goals {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --university-new-a-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a-font-size, 16px);
+  line-height: var(--university-new-a-line-height, 150%);
+  font-weight: var(--university-new-a-font-weight, 600);
+  position: relative;
+}
+.curriculum {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --university-new-a-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a-font-size, 16px);
+  line-height: var(--university-new-a-line-height, 150%);
+  font-weight: var(--university-new-a-font-weight, 600);
+  position: relative;
+}
+.testimonial {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --university-new-a-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a-font-size, 16px);
+  line-height: var(--university-new-a-line-height, 150%);
+  font-weight: var(--university-new-a-font-weight, 600);
+  position: relative;
+}
+.fa-qs {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --university-new-a-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a-font-size, 16px);
+  line-height: var(--university-new-a-line-height, 150%);
+  font-weight: var(--university-new-a-font-weight, 600);
+  position: relative;
+  width: 119px;
+}
+.about {
+  padding: 120px 0px 120px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1728px;
+  height: 688px;
+  position: relative;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  position: relative;
+}
+.the-ai-blueprint {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.this-book-will-show-you-what-exactly-to-do-with-a-is-how-it-works-some-lucrative-ai-generated-side-hustles-ai-prompts-and-tools-to-aid-you-generally {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.component-1 {
+  background: var(--university-modern-primary, #ffb606);
+  border-radius: 8px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fill-default {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --university-new-a-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a-font-size, 16px);
+  line-height: var(--university-new-a-line-height, 150%);
+  font-weight: var(--university-new-a-font-weight, 600);
+  text-decoration: underline;
+  position: relative;
+}
+.book-mockup-4-1-1 {
+  border-radius: 60px;
+  flex-shrink: 0;
+  width: 822px;
+  height: 566px;
+  position: relative;
+  object-fit: cover;
+}
+.what-to-expect {
+  background: var(--one-bg, #000c27);
+  padding: 100px 0px 100px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  position: relative;
+}
+.what-to-expect-from-this-course {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.feature-1 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 410px;
+  position: relative;
+}
+.understanding-about-ai {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.icon-text {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 350px;
+  position: relative;
+}
+.component-2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.clear-practical-approaches-to-leverage-ai-in-business-entrepreneurship-and-everyday-life-whether-they-re-just-starting-or-looking-to-scale-you-ll-find-strategies-suited-to-their-level {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  flex: 1;
+}
+.component-22 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.feature-2 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 410px;
+  position: relative;
+}
+.take-advantage-of-ai {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.component-23 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-24 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-25 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.feature-3 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px 30px 57px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 410px;
+  position: relative;
+}
+.make-more-work-less {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.component-26 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-27 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-28 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-29 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 1742px;
+  position: relative;
+}
+.what-you-ll-learn-on-this-course {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.general-information {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.duration {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.duration2 {
+  color: var(--grey, #999999);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.according-to-your-pace {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h5-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h5-font-size, 20px);
+  line-height: var(--one-h5-line-height, 125%);
+  font-weight: var(--one-h5-font-weight, 600);
+  position: relative;
+}
+.f-omat {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.course-format {
+  color: var(--grey, #999999);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.prompts-ideas-strategies {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h5-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h5-font-size, 20px);
+  line-height: var(--one-h5-line-height, 125%);
+  font-weight: var(--one-h5-font-weight, 600);
+  position: relative;
+  width: 255px;
+}
+.method {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-end;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.study-method {
+  color: var(--grey, #999999);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.online {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h5-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h5-font-size, 20px);
+  line-height: var(--one-h5-line-height, 125%);
+  font-weight: var(--one-h5-font-weight, 600);
+  position: relative;
+}
+.lesson-7 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  flex: 1;
+  position: relative;
+}
+.number {
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+._01 {
+  color: var(--university-modern-primary, #ffb606);
+  text-align: left;
+  font-family: var(--one-h3-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h3-font-size, 32px);
+  line-height: var(--one-h3-line-height, 125%);
+  font-weight: var(--one-h3-font-weight, 500);
+  position: relative;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.introduction-to-ai-and-machine-learning {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-h3-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h3-font-size, 32px);
+  line-height: var(--one-h3-line-height, 125%);
+  font-weight: var(--one-h3-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.uncover-the-intricacies-of-ai-machine-learning-ml-and-deep-learning-tracing-their-historical-development-and-evolution-navigate-the-expansive-landscape-of-machine-learning-distinguishing-between-the-pivotal-categories-of-supervised-unsupervised-and-reinforcement-learning {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.line-1 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.lesson-2 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.line-2 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.lesson-3 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.line-3 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.lesson-4 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.line-4 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.lesson-5 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.line-5 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.lesson-6 {
+  padding: 0px 40px 0px 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.line-6 {
+  background: var(--white, #ffffff);
+  opacity: 0.1;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-45 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    linear-gradient(-90deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 100%);
+  padding: 120px 0px 120px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  position: relative;
+}
+.frame-44 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.by-far-the-greatest-danger-of-artificial-intelligence-is-that-people-conclude-too-early-that-they-understand-it {
+  text-align: center;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+  width: 970px;
+}
+.by-far-the-greatest-danger-of-artificial-intelligence-is-that-people-conclude-too-early-that-they-understand-it-span {
+  color: var(--white, #ffffff);
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+}
+.by-far-the-greatest-danger-of-artificial-intelligence-is-that-people-conclude-too-early-that-they-understand-it-span2 {
+  color: var(--university-modern-primary, #ffb606);
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+}
+.eliezer-yudkowsky {
+  color: var(--grey, #999999);
+  text-align: center;
+  font-family: var(--one-h5-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h5-font-size, 20px);
+  line-height: var(--one-h5-line-height, 125%);
+  font-weight: var(--one-h5-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.frame-32 {
+  background: var(--one-bg, #000c27);
+  padding: 100px 0px 100px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  position: relative;
+}
+.this-course-is-for-you {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-312 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  row-gap: 19px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-shrink: 0;
+  width: 1424px;
+  position: relative;
+}
+.feature-12 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px 30px 18px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 307px;
+  position: relative;
+}
+.frame-46 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-210 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  width: 99.8%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0.2%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.newcomer {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.no-prior-ai-or-technical-knowledge-required-ideal-for-individuals-who-want-to-add-ai-skills-to-their-resume-and-stay-ahead-of-the-curve-in-their-field {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.feature-22 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px 30px 18px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 307px;
+  position: relative;
+}
+.component-211 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.feature-32 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px 30px 18px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 307px;
+  position: relative;
+}
+.group2 {
+  width: 99.81%;
+  height: 88.3%;
+  position: absolute;
+  right: 0%;
+  left: 0.19%;
+  bottom: 5.85%;
+  top: 5.85%;
+  overflow: visible;
+}
+.feature-4 {
+  background: var(--one-bg2, #0f1537);
+  border-radius: 16px;
+  padding: 30px 30px 18px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 300px;
+  height: 307px;
+  position: relative;
+}
+.component-212 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: visible;
+}
+.frame-49 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.listen-to-real-people-real-results {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-48 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  flex-shrink: 0;
+  width: 1290px;
+  position: relative;
+}
+.testi-2 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-image-60 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.content2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.rate {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-213 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-3 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-4 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-5 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-6 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.i-love-the-experiece-before-this-course-ai-was-just-a-buzzword-to-me-now-i-m-using-it-to-personalize-customer-experiences-analyze-campaign-data-and-even-generate-creative-content-my-boss-is-blown-away-by-my-results-and-i-m-finally-feeling-challenged-and-fulfilled-in-my-work {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.sarah-27-marketing-specialist {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(
+    --university-new-a2-font-family,
+    "Inter-SemiBold",
+    sans-serif
+  );
+  font-size: var(--university-new-a2-font-size, 14px);
+  line-height: var(--university-new-a2-line-height, 150%);
+  font-weight: var(--university-new-a2-font-weight, 600);
+  position: relative;
+}
+.testi-3 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  position: relative;
+  overflow: hidden;
+}
+.component-214 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-32 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-42 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-52 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-62 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.testi-4 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  position: relative;
+  overflow: hidden;
+}
+.component-215 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-33 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-43 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-53 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-63 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-622 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.2);
+  border-width: 1px;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 630px;
+  height: 301px;
+  position: relative;
+  overflow: hidden;
+}
+.component-216 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-34 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-44 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-54 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-64 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.frame-53 {
+  background: var(--one-bg, #000c27);
+  padding: 100px 0px 100px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 1285px;
+  position: relative;
+}
+.hello-i-m-kelechi-mba-jnr {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-51 {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1528px;
+  height: 1005px;
+  position: relative;
+}
+.avatar-image-602 {
+  border-radius: 500px;
+  flex-shrink: 0;
+  width: 510px;
+  height: 510px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-52 {
+  padding: 0px 0px 23px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 523px;
+  height: 1005px;
+  position: relative;
+}
+.frame-50 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 510px;
+  position: relative;
+}
+.my-story {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+  width: 146px;
+  height: 38px;
+}
+.content3 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.my-journey-is-driven-by-an-unwavering-passion-for-exploring-the-complexities-of-artificial-intelligence-which-has-enabled-me-to-contribute-to-pioneering-research-and-transformative-advancements-in-the-field {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.throughout-my-career-i-have-been-at-the-vanguard-of-technological-innovation-seamlessly-integrating-deep-theoretical-expertise-with-real-world-applications-my-mission-is-to-democratize-access-to-artificial-intelligence-and-machine-learning-simplifying-intricate-concepts-and-fostering-a-dynamic-collaborative-learning-experience-for-individuals-at-every-stage-of-their-journey {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.beyond-the-classroom-i-am-a-recognized-thought-leader-consistently-advancing-the-frontiers-of-ai-research-my-unwavering-commitment-to-ethical-ai-development-and-progressive-strategies-equips-you-not-only-with-a-deep-understanding-of-the-technology-but-also-empowers-you-to-actively-shape-its-responsible-and-innovative-evolution {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-512 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 510px;
+  position: relative;
+}
+.my-experience {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.content4 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.timeline-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.year {
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-6 {
+  background: var(--dark-grey, #666666);
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 12px;
+  height: 12px;
+  position: relative;
+}
+._2015 {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.network-engineer-at-chi-limited {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.timeline-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.timeline-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.timeline-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.timeline-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-7 {
+  background: var(--dark-grey, #666666);
+  flex-shrink: 0;
+  width: 2px;
+  height: 183px;
+  position: absolute;
+  left: 5px;
+  top: 6px;
+}
+.frame-522 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 510px;
+  position: relative;
+}
+.brands-i-worked-with {
+  color: #f2f1fa;
+  text-align: left;
+  font-family: var(--one-h4-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h4-font-size, 24px);
+  line-height: var(--one-h4-line-height, 125%);
+  font-weight: var(--one-h4-font-weight, 600);
+  position: relative;
+}
+.frame-4053 {
+  flex-shrink: 0;
+  width: 510px;
+  height: 87px;
+  position: relative;
+  overflow: hidden;
+}
+.umae-logo-1 {
+  border-radius: 24px;
+  width: 151px;
+  height: 87px;
+  position: absolute;
+  left: -34px;
+  top: 0px;
+  object-fit: cover;
+}
+.img-3322-1 {
+  width: 33px;
+  height: 43px;
+  position: absolute;
+  left: 117px;
+  top: 28px;
+  object-fit: cover;
+}
+.leo-s-design-new-logo-3-x-1 {
+  width: 104px;
+  height: 58px;
+  position: absolute;
+  left: 164px;
+  top: 22px;
+  object-fit: cover;
+}
+.mmp-png-1 {
+  width: 46px;
+  height: 47px;
+  position: absolute;
+  left: 292px;
+  top: 26px;
+  object-fit: cover;
+}
+.frame-43135-1 {
+  width: 136px;
+  height: 30px;
+  position: absolute;
+  left: 367px;
+  top: 35px;
+  object-fit: cover;
+}
+.slide-16-9-19 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+  padding: 120px 475px 83px 475px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1940px;
+  height: 644px;
+  position: relative;
+  overflow: hidden;
+}
+.artificial-intelligence-transforms-challenges-into-profitable-opportunities-empowering-people-to-create-wealth-through-innovation {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+  width: 970px;
+}
+.frame-68 {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-217 {
+  background: var(--university-modern-primary, #ffb606);
+  border-radius: 0px 8px 8px 0px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fill-default2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 700;
+  text-decoration: underline;
+  position: relative;
+}
+.fa-qs2 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.find-the-answers-to-your-questions-here {
+  color: #f2f1fa;
+  text-align: center;
+  font-family: var(--one-h2-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--one-h2-font-size, 48px);
+  line-height: var(--one-h2-line-height, 125%);
+  font-weight: var(--one-h2-font-weight, 500);
+  position: relative;
+}
+.frame-74 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-72 {
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 565px;
+  position: relative;
+}
+.question-2 {
+  background: #000c27;
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-71 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.are-the-ai-tools-and-prompts-in-this-book-free-to-use {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font-family: var(--one-h5-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--one-h5-font-size, 20px);
+  line-height: var(--one-h5-line-height, 125%);
+  font-weight: var(--one-h5-font-weight, 600);
+  position: relative;
+  width: 516px;
+}
+.question-1 {
+  background: #000c27;
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.question-3 {
+  background: #000c27;
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.question-4 {
+  background: #000c27;
+  border-radius: 16px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-73 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-75 {
+  background: var(--one-bg, #000c27);
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 1px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 948px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1940px;
+  height: 120px;
+  position: relative;
+}
+._2024-ai-team-all-rights-reserved {
+  color: var(--light-grey, #dddddd);
+  text-align: left;
+  font-family: var(--one-p-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--one-p-font-size, 16px);
+  line-height: var(--one-p-line-height, 150%);
+  font-weight: var(--one-p-font-weight, 400);
+  position: relative;
+}
+.social-media {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.facebook {
+  flex-shrink: 0;
+  width: 23px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-218 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.component-219 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.group-32 {
+  width: 89.58%;
+  height: 89.58%;
+  position: absolute;
+  right: 5.27%;
+  left: 5.15%;
+  bottom: 5.59%;
+  top: 4.82%;
+  overflow: visible;
+}
+.group-31 {
+  width: 97.92%;
+  height: 70.67%;
+  position: absolute;
+  right: 1.04%;
+  left: 1.04%;
+  bottom: 15.79%;
+  top: 13.54%;
+  overflow: visible;
+}
+.component-220 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
