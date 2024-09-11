@@ -1,5 +1,11 @@
 /* Media Queries */
 @media screen and (max-width: 768px) {
+  /* Specific adjustments for the landing page */
+  .landing-page-for-offline-course {
+    height: auto;
+    padding: 15px;
+    gap: 40px;
+  }
   .frame-74 {
     flex-direction: column;
   }
