@@ -1904,218 +1904,143 @@
 }
 
 /* Media Queries */
-@media screen and (max-width: 768px) {
-  /* Specific adjustments for the landing page */
+@media only screen and (max-width: 896px) {
   .landing-page-for-offline-course {
     height: auto;
-    padding: 15px;
-    gap: 40px;
   }
-  .frame-74 {
-    flex-direction: column;
-  }
-  .find-the-answers-to-your-questions-here {
-    font-size: 36px;
-  }
-  .frame-72 {
+
+  .frame-95 {
+    width: 100%;
     height: auto;
   }
-  .question-2, .question-1, .question-3, .question-4 {
-    width: 90%;
-    padding: 20px;
+
+  .group-7 {
+    width: 100%;
   }
-  .are-the-ai-tools-and-prompts-in-this-book-free-to-use {
-    font-size: 18px;
+
+  .hero-section {
+    width: 100%;
   }
-  .frame-75 {
-    flex-direction: column;
-    height: auto;
-    gap: 30px;
+
+  .mask-group {
+    width: 100%;
   }
-  .social-media {
+
+  .content {
+    width: 100%;
+    left: 0;
+  }
+
+  .text {
+    width: 100%;
+  }
+
+  .header {
+    left: 0;
+  }
+
+  .frame-23 {
+    gap: 20px;
+  }
+
+  .frame-4050 {
+    width: 100px;
+  }
+
+  .menu {
     gap: 10px;
   }
-  .frame-53 {
-    padding: 50px 20px;
-    width: 100%;
-    height: auto;
-  }
 
-  .hello-i-m-kelechi-mba-jnr {
-    font-size: 36px;
-  }
-
-  .frame-51 {
-    flex-direction: column;
-    width: 100%;
-    height: auto;
-  }
-
-  .avatar-image-602 {
-    width: 300px;
-    height: 300px;
-  }
-
-  .frame-52, .frame-50 {
-    width: 100%;
-  }
-
-  .my-story, .my-experience {
-    font-size: 20px;
-  }
-
-  .content3, .content4 {
-    gap: 12px;
-  }
-
-  .brands-i-worked-with {
-    font-size: 20px;
-  }
-
-  .slide-16-9-19 {
-    padding: 60px 20px;
-    width: 100%;
-    height: auto;
-  }
-
-  .artificial-intelligence-transforms-challenges-into-profitable-opportunities-empowering-people-to-create-wealth-through-innovation {
-    font-size: 32px;
-    width: 100%;
-  }
-
-  .frame-72 {
-    height: auto;
-  }
-
-  .frame-75 {
-    gap: 20px;
-    width: 100%;
-    height: auto;
-  }
-
-  .social-media {
-    height: auto;
-  }
-
-  .facebook, .component-218, .component-219, .component-220 {
-    width: 20px;
-    height: 20px;
-  }
-  .landing-page-for-offline-course {
-    padding-left: 16px;
-    padding-right: 16px;
-    width: calc(100% - 32px);
-  }
-  
-  .frame-68,
-  .component-217,
-  .fa-qs2,
-  .find-the-answers-to-your-questions-here,
-  .frame-74,
-  .frame-72,
-  .question-2,
-  .frame-71,
-  .are-the-ai-tools-and-prompts-in-this-book-free-to-use,
-  .question-1,
-  .question-3,
-  .question-4,
-  .frame-73,
-  .frame-75,
-  .social-media,
-  .facebook,
-  .component-218,
-  .component-219,
-  .group-32,
-  .group-31,
-  .component-220 {
-    padding-left: 16px;
-    padding-right: 16px;
-    width: calc(100% - 32px);
-  }
-
-  .frame-68,
-  .frame-72,
-  .frame-74,
-  .frame-71,
-  .frame-75 {
-    max-width: calc(100% - 32px);
-  }
-
-  /* Specific element adjustments */
-  .hello-i-m-kelechi-mba-jnr {
-    font-size: 36px;
-  }
-  
-  .avatar-image-602 {
-    width: 90%;
-    height: auto;
-  }
-
-  .my-story,
-  .my-journey-is-driven-by-an-unwavering-passion-for-exploring-the-complexities-of-artificial-intelligence-which-has-enabled-me-to-contribute-to-pioneering-research-and-transformative-advancements-in-the-field,
-  .throughout-my-career-i-have-been-at-the-vanguard-of-technological-innovation-seamlessly-integrating-deep-theoretical-expertise-with-real-world-applications-my-mission-is-to-democratize-access-to-artificial-intelligence-and-machine-learning-simplifying-intricate-concepts-and-fostering-a-dynamic-collaborative-learning-experience-for-individuals-at-every-stage-of-their-journey,
-  .beyond-the-classroom-i-am-a-recognized-thought-leader-consistently-advancing-the-frontiers-of-ai-research-my-unwavering-commitment-to-ethical-ai-development-and-progressive-strategies-equips-you-not-only-with-a-deep-understanding-of-the-technology-but-also-empowers-you-to-actively-shape-its-responsible-and-innovative-evolution {
+  .goals,
+  .curriculum,
+  .testimonial,
+  .fa-qs,
+  .about {
     font-size: 14px;
   }
 
-  .timeline-1,
-  .timeline-2,
-  .timeline-3,
-  .timeline-4,
-  .timeline-5 {
-    flex-direction: column;
-    align-items: flex-start;
+  .frame-38 {
     width: 100%;
   }
 
-  .rectangle-7 {
-    height: 100px; /* Adjust based on design */
+  .the-ai-blueprint {
+    font-size: 36px;
   }
-}
 
-@media screen and (max-width: 480px) {
-  .find-the-answers-to-your-questions-here {
-    font-size: 28px;
+  .this-book-will-show-you-what-exactly-to-do-with-a-is-how-it-works-some-lucrative-ai-generated-side-hustles-ai-prompts-and-tools-to-aid-you-generally {
+    font-size: 14px;
   }
-  .frame-72 {
-    height: auto;
-    padding: 20px;
+
+  .component-1 {
+    padding: 8px 16px 8px 16px;
   }
-  .question-2, .question-1, .question-3, .question-4 {
-    width: 100%;
-    padding: 15px;
-  }
-  .are-the-ai-tools-and-prompts-in-this-book-free-to-use {
-    font-size: 16px;
-    width: 100%;
-  }
-  .frame-75 {
+
+  .book-mockup-4-1-1 {
     width: 100%;
     height: auto;
-    flex-direction: column;
+  }
+
+  .what-to-expect {
+    padding: 50px 0px 50px 0px;
+  }
+
+  .what-to-expect-from-this-course {
+    font-size: 36px;
+  }
+
+  .feature-1,
+  .feature-2,
+  .feature-3 {
+    width: 100%;
+  }
+
+  .understanding-about-ai,
+  .take-advantage-of-ai,
+  .make-more-work-less {
+    font-size: 24px;
+  }
+
+  .frame-43 {
+    gap: 30px;
+  }
+
+  .what-you-ll-learn-on-this-course {
+    font-size: 36px;
+  }
+
+  .general-information {
+    width: 100%;
+    padding: 30px;
+  }
+
+  .duration,
+  .f-omat,
+  .method {
+    gap: 10px;
+  }
+
+  .duration2,
+  .course-format,
+  .prompts-ideas-strategies,
+  .study-method,
+  .online {
+    font-size: 14px;
+  }
+
+  .lesson-7 {
     gap: 20px;
   }
-  .social-media {
-    gap: 5px;
-  }
-  .hello-i-m-kelechi-mba-jnr {
-    font-size: 28px;
+
+  .number {
+    gap: 10px;
   }
 
-  .avatar-image-602 {
-    width: 200px;
-    height: 200px;
-  }
-
-  .my-story, .my-experience {
-    font-size: 18px;
-  }
-
-  .brands-i-worked-with {
-    font-size: 18px;
-  }
-
-  .artificial-intelligence-transforms-challenges-into-profitable-opportunities-empowering-people-to-create-wealth-through-innovation {
+  ._01,
+  .title {
     font-size: 24px;
+  }
+
+  .uncover-the-intricacies-of-ai-machine-learning-ml-and-deep-learning-tracing-the-historical-development-and-evolution-navigate-the-expansive-landscape-of-machine-learning-distinguishing-between-the-pivotal-categories-of-supervised-unsupervised-and-reinforcement-learning {
+    font-size: 14px;
   }
 }
