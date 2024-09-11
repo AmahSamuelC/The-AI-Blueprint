@@ -1,0 +1,92 @@
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  .frame-53 {
+    padding: 50px 20px;
+    width: 100%;
+    height: auto;
+  }
+
+  .hello-i-m-kelechi-mba-jnr {
+    font-size: 36px;
+  }
+
+  .frame-51 {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+  }
+
+  .avatar-image-602 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .frame-52, .frame-50 {
+    width: 100%;
+  }
+
+  .my-story, .my-experience {
+    font-size: 20px;
+  }
+
+  .content3, .content4 {
+    gap: 12px;
+  }
+
+  .brands-i-worked-with {
+    font-size: 20px;
+  }
+
+  .slide-16-9-19 {
+    padding: 60px 20px;
+    width: 100%;
+    height: auto;
+  }
+
+  .artificial-intelligence-transforms-challenges-into-profitable-opportunities-empowering-people-to-create-wealth-through-innovation {
+    font-size: 32px;
+    width: 100%;
+  }
+
+  .frame-72 {
+    height: auto;
+  }
+
+  .frame-75 {
+    gap: 20px;
+    width: 100%;
+    height: auto;
+  }
+
+  .social-media {
+    height: auto;
+  }
+
+  .facebook, .component-218, .component-219, .component-220 {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .hello-i-m-kelechi-mba-jnr {
+    font-size: 28px;
+  }
+
+  .avatar-image-602 {
+    width: 200px;
+    height: 200px;
+  }
+
+  .my-story, .my-experience {
+    font-size: 18px;
+  }
+
+  .brands-i-worked-with {
+    font-size: 18px;
+  }
+
+  .artificial-intelligence-transforms-challenges-into-profitable-opportunities-empowering-people-to-create-wealth-through-innovation {
+    font-size: 24px;
+  }
+}
