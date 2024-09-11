@@ -1,5 +1,29 @@
 /* Media Queries */
 @media screen and (max-width: 768px) {
+  .frame-74 {
+    flex-direction: column;
+  }
+  .find-the-answers-to-your-questions-here {
+    font-size: 36px;
+  }
+  .frame-72 {
+    height: auto;
+  }
+  .question-2, .question-1, .question-3, .question-4 {
+    width: 90%;
+    padding: 20px;
+  }
+  .are-the-ai-tools-and-prompts-in-this-book-free-to-use {
+    font-size: 18px;
+  }
+  .frame-75 {
+    flex-direction: column;
+    height: auto;
+    gap: 30px;
+  }
+  .social-media {
+    gap: 10px;
+  }
   .frame-53 {
     padding: 50px 20px;
     width: 100%;
@@ -69,6 +93,30 @@
 }
 
 @media screen and (max-width: 480px) {
+  .find-the-answers-to-your-questions-here {
+    font-size: 28px;
+  }
+  .frame-72 {
+    height: auto;
+    padding: 20px;
+  }
+  .question-2, .question-1, .question-3, .question-4 {
+    width: 100%;
+    padding: 15px;
+  }
+  .are-the-ai-tools-and-prompts-in-this-book-free-to-use {
+    font-size: 16px;
+    width: 100%;
+  }
+  .frame-75 {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .social-media {
+    gap: 5px;
+  }
   .hello-i-m-kelechi-mba-jnr {
     font-size: 28px;
   }
