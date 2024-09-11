@@ -2001,6 +2001,76 @@
     width: 20px;
     height: 20px;
   }
+  .landing-page-for-offline-course {
+    padding-left: 16px;
+    padding-right: 16px;
+    width: calc(100% - 32px);
+  }
+  
+  .frame-68,
+  .component-217,
+  .fa-qs2,
+  .find-the-answers-to-your-questions-here,
+  .frame-74,
+  .frame-72,
+  .question-2,
+  .frame-71,
+  .are-the-ai-tools-and-prompts-in-this-book-free-to-use,
+  .question-1,
+  .question-3,
+  .question-4,
+  .frame-73,
+  .frame-75,
+  .social-media,
+  .facebook,
+  .component-218,
+  .component-219,
+  .group-32,
+  .group-31,
+  .component-220 {
+    padding-left: 16px;
+    padding-right: 16px;
+    width: calc(100% - 32px);
+  }
+
+  .frame-68,
+  .frame-72,
+  .frame-74,
+  .frame-71,
+  .frame-75 {
+    max-width: calc(100% - 32px);
+  }
+
+  /* Specific element adjustments */
+  .hello-i-m-kelechi-mba-jnr {
+    font-size: 36px;
+  }
+  
+  .avatar-image-602 {
+    width: 90%;
+    height: auto;
+  }
+
+  .my-story,
+  .my-journey-is-driven-by-an-unwavering-passion-for-exploring-the-complexities-of-artificial-intelligence-which-has-enabled-me-to-contribute-to-pioneering-research-and-transformative-advancements-in-the-field,
+  .throughout-my-career-i-have-been-at-the-vanguard-of-technological-innovation-seamlessly-integrating-deep-theoretical-expertise-with-real-world-applications-my-mission-is-to-democratize-access-to-artificial-intelligence-and-machine-learning-simplifying-intricate-concepts-and-fostering-a-dynamic-collaborative-learning-experience-for-individuals-at-every-stage-of-their-journey,
+  .beyond-the-classroom-i-am-a-recognized-thought-leader-consistently-advancing-the-frontiers-of-ai-research-my-unwavering-commitment-to-ethical-ai-development-and-progressive-strategies-equips-you-not-only-with-a-deep-understanding-of-the-technology-but-also-empowers-you-to-actively-shape-its-responsible-and-innovative-evolution {
+    font-size: 14px;
+  }
+
+  .timeline-1,
+  .timeline-2,
+  .timeline-3,
+  .timeline-4,
+  .timeline-5 {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+
+  .rectangle-7 {
+    height: 100px; /* Adjust based on design */
+  }
 }
 
 @media screen and (max-width: 480px) {
